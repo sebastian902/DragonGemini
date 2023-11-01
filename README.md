@@ -22,7 +22,7 @@ On Great Pause:<br/>
   Impact on research and innovation<br/>
   Global wars(WW3?)<br/>
 
-Please add/suggest reading materials etc which is suitable as on 2023 due to fast changing landscape.
+Reading materials etc which is suitable as on 2023 due to fast changing landscape are welcome
 
 How to create a copy of existing dragon which will be more friendly, stable?
 
@@ -30,3 +30,7 @@ How much investment is required to create from scratch(starting from buying and 
 
 
 What should be the ideal geography to create The Dragon Gemini?
+
+To contribute, please create issues/pull requests 
+
+Thank you
